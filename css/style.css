@@ -17,7 +17,7 @@ body {
 
 .nav li {
 	display: inline;
-	color: white;
+	color: #fff;
 }
 
 .navbar-inverse .navbar-nav > li > a {
