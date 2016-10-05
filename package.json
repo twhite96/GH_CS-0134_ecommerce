@@ -1,0 +1,38 @@
+{
+  "name": "cs0134-ecommerce-site",
+  "version": "1.0.0",
+  "description": "site for cs0134",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twhite96/ecommerce-site.git"
+  },
+  "author": "Tiffany White",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.14.0",
+    "gulp-qunit": "~1.5.0",
+    "gulp-util": "~3.0.7",
+    "gulp": "~3.9.1"
+  },
+  "dependencies": {
+    "lazysizes": "^2.0.2",
+    "bootstrap": "^3.3.5",
+    "grunt": "^1.0.1",
+    "gulp": "^3.9.1",
+    "gulp-qunit": "^1.5.0",
+    "gulp-util": "^3.0.7",
+    "v8-profiler": "^5.5.0"
+  },
+  "engines": {
+    "node": ">=5.0"
+},
+"bugs": {
+  "url": "https://github.com/twhite96/ecommerce-site/issues"
+},
+"homepage": "https://github.com/twhite96/ecommerce-site#readme"
+}
