@@ -34,6 +34,10 @@ body {
 	height: 100%;
 }
 
+form {
+  float: right;
+}
+
 /* MARKETING CONTENT
 -------------------------------------------------- */
 
