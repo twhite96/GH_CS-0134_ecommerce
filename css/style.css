@@ -29,7 +29,7 @@ body {
 }
 
 .navbar-inverse .navbar-nav li a:hover {
-	background-color: #444444;
+	background-color: #444;
 	transition: 0.7s all linear;
 	height: 100%;
 }
@@ -48,6 +48,12 @@ body {
 .marketing .col-lg-4 p {
   margin-right: .75rem;
   margin-left: .75rem;
+}
+.img-circle {
+  border: 3px solid #444;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
 }
 
 
