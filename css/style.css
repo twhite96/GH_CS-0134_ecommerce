@@ -34,7 +34,7 @@ body {
 	height: 100%;
 }
 
-.form-group {
+.navbar-form, .navbar-right{
   text-align: right;
 }
 
