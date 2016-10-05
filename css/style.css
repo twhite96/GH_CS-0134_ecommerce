@@ -34,7 +34,7 @@ body {
 	height: 100%;
 }
 
-navbar-form {
+.navbar-form .navbar-right {
   float: right;
 }
 
