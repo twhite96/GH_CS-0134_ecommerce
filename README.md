@@ -1,7 +1,7 @@
 # Mock e-commerce Site for CS 0134
 > Purely a static e-commerce site for Pitt's CS 0134, Web Development Class
 
-![Travis branch](https://travis-ci.org/twhite96/The-Lens-Cap.svg?branch=gh-pages)(https://travis-ci.org/twhite96/The-Lens-Cap)
+[![Travis branch](https://travis-ci.org/twhite96/The-Lens-Cap.svg?branch=gh-pages)](https://travis-ci.org/twhite96/The-Lens-Cap)
 
 This site is simple: How do you design and code a functional e-commerce site? By using Bootstrap and customizing it with a few flexbox elements thrown in. Also for the first iteration, we'll use CSS animations instead of jQuery or JavaScript. For v.1.1, jQuery and JavaScript will be added.
 
