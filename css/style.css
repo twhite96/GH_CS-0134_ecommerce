@@ -2,6 +2,8 @@
 body {
   padding-bottom: 3rem;
   color: #5a5a5a;
+  overflow-x: hidden;
+  width: 100%;
 }
 /* Navbar Styling
 ---------------------------------------------------*/
