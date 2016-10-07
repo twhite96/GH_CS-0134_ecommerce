@@ -37,9 +37,8 @@ body {
   padding: 0px;
 }
 .navbar-brand>img {
-  height: 98px;
-  padding-bottom: 18px;
-  padding-top: 10px;
+  height: 80px;
+  padding: 7px 15px;
   width: auto;
 }
 
