@@ -87,7 +87,16 @@ h2 {
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
+@media (max-width: 767px) {
+    .navbar-brand {
+        padding: 0;
+    }
 
+    .navbar-brand img {
+        margin-top: 5px;
+        margin-left: 5px;
+    }
+}
 @media (min-width: 40em) {
 
  .feature-heading {
