@@ -1,6 +1,6 @@
 $(document).ready(function() {
   $('.slide').slick({
-    slidesToShow: 1,
+    slidesToShow: 3,
   });
 });
 $('.slide').slick({
@@ -9,8 +9,6 @@ $('.slide').slick({
   slidesToShow: 3,
   slidesToScroll: 3,
   accessibility: true,
-  arrows: true,
-  cssEase: 'ease',
   dots: true,
   autoplay: true,
   responsive: [
@@ -37,8 +35,5 @@ $('.slide').slick({
         slidesToScroll: 1
       }
     }
-    // You can unslick at a given breakpoint now by adding:
-    // settings: "unslick"
-    // instead of a settings object
   ]
 });
