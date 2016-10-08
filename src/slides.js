@@ -1,4 +1,8 @@
-
+$(document).ready(function() {
+  $('.slide').slick({
+    slidesToShow: 1,
+  });
+});
 $('.slide').slick({
   infinite: true,
   speed: 300,
