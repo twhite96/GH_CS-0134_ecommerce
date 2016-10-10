@@ -87,10 +87,6 @@ h2 {
   letter-spacing: -.05rem;
 }
 
-.slide-image {
-  max-width: 100%;
-}
-
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 @media (max-width: 767px) {
