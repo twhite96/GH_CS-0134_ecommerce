@@ -1,6 +1,6 @@
 /* Padding below the footer and lighter body text */
 
-body {
+body, html {
     padding-bottom: 3rem;
     color: #5a5a5a;
     overflow-x: hidden;
@@ -144,7 +144,7 @@ input[type=text] {
 .form {
     float: left;
     position: relative;
-    padding-left: 15em;
+    padding-left: 5em;
 }
 
 textarea {
