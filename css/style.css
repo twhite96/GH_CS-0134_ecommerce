@@ -144,7 +144,7 @@ input[type=text] {
 .form {
     float: left;
     position: relative;
-    padding-left: 5em;
+    padding-left: 15em;
 }
 
 textarea {
@@ -181,6 +181,6 @@ textarea {
 
 @media (max-width: 767px) {
      .form {
-        margin-top: 4em; {
+        padding: 0;
     }
 }
