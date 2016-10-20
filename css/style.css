@@ -126,6 +126,7 @@ h1 {
 
 h4 {
     text-align: left;
+    padding-left: 8%;
     font-size: 36px;
     font-weight: bold;
     font-family: 'Lato';
@@ -141,16 +142,26 @@ input[type=text] {
     border: 1px solid #000;
 }
 
-.form {
-    float: left;
-    position: relative;
-    padding-left: 15em;
+input[type=submit] {
+  display: inline-block;
+  margin: auto;
+  width: 90%;
+}
+
+form {
+  width: 50%;
+  float: left;
+  max-width: 767px;
+  padding-left: 8%;
 }
 
 textarea {
-    height: 10em;
-    width: 35em;
-    font-family: 'Lato';
+  display: inline-block;
+  float: left;
+  height: 160px;
+  width: 90%;
+  max-width: 767px;
+  font-family: 'Lato';
 }
 
 
@@ -180,7 +191,7 @@ textarea {
 }
 
 @media (max-width: 767px) {
-     .form {
-        padding: 0;
-    }
+  form {
+    min-width: 480px;
+  }
 }
