@@ -191,6 +191,6 @@ textarea {
 
 @media (max-width: 767px) {
   form {
-    min-width: 480px;
+    min-width: 100%;
   }
 }
