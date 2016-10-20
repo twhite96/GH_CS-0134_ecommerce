@@ -1,9 +1,9 @@
 /* Padding below the footer and lighter body text */
 
 body, html {
-    padding-bottom: 3rem;
-    color: #5a5a5a;
-    overflow-x: hidden;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+  overflow-x: hidden;
 }
 
 
@@ -11,71 +11,71 @@ body, html {
 ---------------------------------------------------*/
 
 .navbar, .navbar-inverse {
-    border-radius: 0;
-    border: none;
-    margin-bottom: 0;
-    min-height: 80px;
+  border-radius: 0;
+  border: none;
+  margin-bottom: 0;
+  min-height: 80px;
 }
 
 .nav li {
-    display: inline;
-    color: #fff;
+  display: inline;
+  color: #fff;
 }
 
 .navbar-inverse .navbar-nav>li>a {
-    color: #fff;
-    font-family: 'Lato';
-    font-size: 1.7em;
-    font-weight: 300;
-    padding: 30px 25px 33px 25px;
+  color: #fff;
+  font-family: 'Lato';
+  font-size: 1.7em;
+  font-weight: 300;
+  padding: 30px 25px 33px 25px;
 }
 
 .navbar-inverse .navbar-nav li a:hover {
-    background-color: #444;
-    transition: 0.7s all linear;
-    height: 100%;
+  background-color: #444;
+  transition: 0.7s all linear;
+  height: 100%;
 }
 
 .navbar-brand {
-    padding: 0px;
+  padding: 0px;
 }
 
 .navbar-brand>img {
-    height: 80px;
-    padding: 7px 15px;
-    width: auto;
+  height: 80px;
+  padding: 7px 15px;
+  width: auto;
 }
 
 i {
-    padding-left: 10px;
+  padding-left: 10px;
 }
 
 
 /* Center aligned columns for marketing*/
 
 .col-lg-4 {
-    margin-bottom: 6rem;
-    margin-top: 8rem;
-    text-align: center;
+  margin-bottom: 6rem;
+  margin-top: 8rem;
+  text-align: center;
 }
 
 h2 {
-    font-weight: normal;
+  font-weight: normal;
 }
 
 .col-lg-4 p {
-    margin-right: .75rem;
-    margin-left: .75rem;
+  margin-right: .75rem;
+  margin-left: .75rem;
 }
 
 .img-circle {
-    border: 3px solid #444;
-    border-radius: 50%;
+  border: 3px solid #444;
+  border-radius: 50%;
 }
 
 .img-wide {
-    width: 100%;
-    padding-top: 4.5rem;
+  width: 100%;
+  padding-top: 4.5rem;
 }
 
 
@@ -83,63 +83,63 @@ h2 {
 ------------------------- */
 
 .feature-divider {
-    margin: 5rem 0;
-    /* Space out the linebreaks more */
+  margin: 5rem 0;
+  /* Space out the linebreaks more */
 }
 
 
 /* Thin out the marketing headings */
 
 .feature-heading {
-    font-weight: 300;
-    line-height: 1;
-    letter-spacing: -.05rem;
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
 }
 
 
 /* CSS for Pricing Table */
 
 table {
-    width: 100%;
+  width: 100%;
 }
 
 th {
-    background-color: #5a5a5a;
-    color: #fff;
+  background-color: #5a5a5a;
+  color: #fff;
 }
 
 td {
-    padding: 5px;
+  padding: 5px;
 }
 
 input {
-    width: 100%;
-    height: 24px;
-    font-size: 18px;
-    padding: 2px;
-    border: 0;
+  width: 100%;
+  height: 24px;
+  font-size: 18px;
+  padding: 2px;
+  border: 0;
 }
 
 h1 {
-    font-weight: normal;
+  font-weight: normal;
 }
 
 h4 {
-    text-align: left;
-    padding-left: 8%;
-    font-size: 36px;
-    font-weight: bold;
-    font-family: 'Lato';
+  text-align: left;
+  padding-left: 3%;
+  font-size: 36px;
+  font-weight: bold;
+  font-family: 'Lato';
 }
 
 
 /* Contact Form */
 
 input[type=text] {
-    display: inline-block;
-    margin: auto;
-    width: 90%;
-    border: 1px solid #000;
+  margin: auto;
+  display: inline-block;
+  width: 90%;
+  border: 1px solid #000;
 }
 
 input[type=submit] {
@@ -149,10 +149,10 @@ input[type=submit] {
 }
 
 form {
+  display: inline-block;
   width: 50%;
   float: left;
-  max-width: 767px;
-  padding-left: 8%;
+  padding-left: 3%;
 }
 
 textarea {
@@ -160,7 +160,6 @@ textarea {
   float: left;
   height: 160px;
   width: 90%;
-  max-width: 767px;
   font-family: 'Lato';
 }
 
@@ -169,25 +168,25 @@ textarea {
 -------------------------------------------------- */
 
 @media (max-width: 767px) {
-    .navbar-brand {
-        padding: 0;
-    }
-    .navbar-brand>img {
-        margin-top: 5px;
-        margin-left: 5px;
-    }
+  .navbar-brand {
+    padding: 0;
+  }
+  .navbar-brand>img {
+    margin-top: 5px;
+    margin-left: 5px;
+  }
 }
 
 @media (min-width: 40em) {
-    .feature-heading {
-        font-size: 50px;
-    }
+  .feature-heading {
+    font-size: 50px;
+  }
 }
 
 @media (min-width: 62em) {
-    .feature-heading {
-        margin-top: 7rem;
-    }
+  .feature-heading {
+    margin-top: 7rem;
+  }
 }
 
 @media (max-width: 767px) {
