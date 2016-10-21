@@ -136,30 +136,29 @@ h4 {
 /* Contact Form */
 
 input[type=text] {
-  margin: auto;
   display: inline-block;
-  width: 90%;
+  width: 100%;
   border: 1px solid #000;
 }
 
 input[type=submit] {
   display: inline-block;
-  margin: auto;
-  width: 90%;
+  width: 100%;
 }
 
 form {
   display: inline-block;
-  width: 50%;
+  width: 100%;
   float: left;
   padding-left: 3%;
+  padding-right: 5%;
 }
 
 textarea {
   display: inline-block;
   float: left;
-  height: 160px;
-  width: 90%;
+  height: 200px;
+  width: 100%;
   font-family: 'Lato';
 }
 
