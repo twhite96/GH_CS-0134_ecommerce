@@ -148,7 +148,7 @@ input[type=submit] {
 
 form {
   display: inline-block;
-  width: 100%;
+  width: 50%;
   float: left;
   padding-left: 10%;
   padding-right: 10%;
