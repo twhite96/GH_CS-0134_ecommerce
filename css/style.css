@@ -98,7 +98,6 @@ h2 {
 
 .feature-image {
   transition: transform .5s;
-  transform-origin: 0 0;
 }
 
 .feature-image:hover {
