@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" integrity="sha256-AIodEDkC8V/bHBkfyxzolUMw57jeQ9CauwhVW6YJ9CA=" crossorigin="anonymous" />
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha256-U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8=" crossorigin="anonymous"></script>
     <link href="https://fonts.googleapis.com/css?family=Lato:300" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <link href="css/cart.css" rel="stylesheet" type="text/css" />
     <title>The Lens Cap</title>
   </head>
 
@@ -42,6 +42,63 @@
         <li class="active"><a href="#">Order</a></li>
         <li><a href="#">Payment</a></li>
       </ol>
+    </div>
+
+    <div class="container text-center">
+
+      <div class="col-md-5 col-sm-12">
+        <h1>Your shopping cart</h1>
+        <p>
+          Here's your order. Please be sure to check that you have the correct quanitities. Your order will be shipped in one business day.
+        </p>
+        <div class="bigcart"></div>
+      </div>
+
+      <div class="col-md-7 col-sm-12 text-left">
+        <ul>
+          <li class="row list-inline columnCaptions">
+            <span>QTY</span>
+            <span>ITEM</span>
+            <span>Price</span>
+          </li>
+          <li class="row">
+            <span class="quantity">1</span>
+            <span class="itemName">Ztylus Prime</span>
+            <span class="popbtn"><a class="arrow"></a></span>
+            <span class="price">$199</span>
+          </li>
+          <li class="row">
+            <span class="quantity">2</span>
+            <span class="itemName">Zeiss</span>
+            <span class="popbtn"><a class="arrow"></a></span>
+            <span class="price">$398.90</span>
+          </li>
+          <li class="row">
+            <span class="quantity">2</span>
+            <span class="itemName">Moment Lens</span>
+            <span class="popbtn"><a class="arrow"></a></span>
+            <span class="price">$198.90</span>
+          </li>
+          <li class="row">
+            <span class="quantity">1</span>
+            <span class="itemName">Ztylus Metal</span>
+            <span class="popbtn"><a class="arrow"></a></span>
+            <span class="price">$114.95</span>
+          </li>
+          <li class="row">
+            <span class="quantity">2</span>
+            <span class="itemName">Kodak PixaPro</span>
+            <span class="popbtn" data-parent="#asd" data-toggle="collapse" data-target="#demo"><a class="arrow"></a></span>
+            <span class="price">$458</span>
+          </li>
+          <li class="row totals">
+            <span class="itemName">Total:</span>
+            <span class="price">$1369.75</span>
+            <span class="order"> <a class="text-center">ORDER</a></span>
+          </li>
+        </ul>
+      </div>
+
     </div>
   </body>
 
