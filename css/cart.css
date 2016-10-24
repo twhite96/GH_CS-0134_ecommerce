@@ -2,6 +2,7 @@
 
 body {
   font-size: 14px;
+  background-color: #fff;
   font-family: 'Lato', sans-serif;
 }
 
@@ -74,11 +75,11 @@ i {
 
 .breadcrumb {
   margin-bottom: 100px;
-  background-color: #ffffff;
+  background-color: #fff;
 }
 
 .breadcrumbBox {
-  background-color: #ffffff;
+  background-color: #fff;
   height: 100px;
   margin-bottom: 100px;
   padding-top: 32px;
@@ -134,7 +135,7 @@ i {
   box-shadow: 0 1px 0 #e1e5e8;
   padding-bottom: 0;
   padding-left: 15px;
-  background-color: #ffffff;
+  background-color: #fff;
   margin-bottom: 11px;
 }
 
@@ -146,12 +147,12 @@ i {
 /* Column Captions */
 
 .columnCaptions {
-  color: #7e93a7;
+  color: #3A3F43;
   font-size: 12px;
   text-transform: uppercase;
   padding: 0;
   box-shadow: 0 0 0;
-  background-color: #f2f6f9;
+  background-color: #fff;
 }
 
 .columnCaptions span:first-child {
@@ -188,7 +189,7 @@ i {
 }
 
 .popbtn {
-  background-color: #e6edf3;
+  background-color: #5a5a5a;
   margin-left: 25px;
   height: 63px;
   width: 40px;
@@ -216,7 +217,7 @@ i {
 /* Totals */
 
 .totals {
-  background-color: #f2f6f9;
+  background-color: #fff;
 }
 
 .totals span {
