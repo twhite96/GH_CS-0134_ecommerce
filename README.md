@@ -91,6 +91,6 @@ None right now.
 
 ## Meta
 
-You can follow my dev happenings on Twitter: [@TiffanyW_412](https://twitter.com/TiffanyW_412/)
+You can follow my dev happenings on Twitter: [@TiffanyW_412](https://twitter.com/TiffanyW_412/) or on my blogs [Programming in Progress](https://twhite96.github.io/) and [Code Newbie in Pittsburgh](https://helloburgh.me/)
 
 Distributed under the MIT License. See ```LICENSE``` for more information.
