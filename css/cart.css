@@ -115,7 +115,7 @@ i {
 }
 
 .bigcart {
-  background: url(/img/sprite.png);
+  background: url("/img/sprite.png");
   background-position: 0px 11px;
   background-repeat: no-repeat;
   width: 200px;
