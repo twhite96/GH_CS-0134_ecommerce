@@ -19,13 +19,20 @@ If you wish to test each build with Travis CI, you can do so by making a ```pack
 ```sh
 npm init
 ```
-
 And filling out the details. You will also need to install `Gulp`:
 
 ```sh
 npm install gulp --save
 ```
-You will also need a Gulpfile.
+You will also need a Gulpfile and a `.travis.yml` file. 
+
+You make the Travis CI YAML file: 
+
+```yaml
+language: node_js
+node_js:
+  - "6.3.1"
+```
 
 ### Installing Slick
 
