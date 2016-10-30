@@ -1,5 +1,5 @@
 {
-  "name": "cs0134-ecommerce-site",
+  "name": "The Lens Cap",
   "version": "1.0.0",
   "description": "site for cs0134",
   "main": "server.js",
@@ -30,9 +30,9 @@
   },
   "engines": {
     "node": ">=5.0"
-},
-"bugs": {
-  "url": "https://github.com/twhite96/ecommerce-site/issues"
-},
-"homepage": "https://github.com/twhite96/ecommerce-site#readme"
+  },
+  "bugs": {
+    "url": "https://github.com/twhite96/The-Lens-Cap/issues"
+  },
+  "homepage": "https://github.com/twhite96/The-Lens-Cap#readme"
 }
