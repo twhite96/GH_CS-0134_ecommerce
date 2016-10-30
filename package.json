@@ -1,5 +1,5 @@
 {
-  "name": "The Lens Cap",
+  "name": "The-Lens-Cap",
   "version": "1.0.0",
   "description": "site for cs0134",
   "main": "server.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/twhite96/ecommerce-site.git"
+    "url": "git+https://github.com/twhite96/The-Lens-Cap.git"
   },
   "author": "Tiffany White",
   "license": "ISC",
