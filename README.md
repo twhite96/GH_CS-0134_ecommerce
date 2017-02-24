@@ -98,6 +98,6 @@ None right now.
 
 ## Meta
 
-You can follow my dev happenings on Twitter: [@TiffanyW_412](https://twitter.com/TiffanyW_412/) or on my blogs [Programming in Progress](https://twhite96.surge.sh/) and [Just Another Software Engineering Blog](https://helloburgh.me/), or you can email me at <hey@tiffanyrwhite.com> for any concerns or comments.
+You can follow my dev happenings on Twitter: [@TiffanyW_412](https://twitter.com/TiffanyW_412/) or on my blogs [Just Another DevBlog](https://twhite96.surge.sh/) and [Just Another Software Engineering Blog](https://helloburgh.me/), or you can email me at <hey@tiffanyrwhite.com> for any concerns or comments.
 
 Distributed under the MIT License. See ```LICENSE``` for more information.
