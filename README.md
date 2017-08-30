@@ -1,4 +1,6 @@
 # Mock e-commerce Site for CS 0134
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/twhite96/The-Lens-Cap.svg)](https://greenkeeper.io/)
 > Purely a static e-commerce site for Pitt's CS 0134, Web Development Class
 
 [![Travis branch](https://travis-ci.org/twhite96/The-Lens-Cap.svg?branch=gh-pages)](https://travis-ci.org/twhite96/The-Lens-Cap) [![GitHub followers](https://img.shields.io/github/followers/twhite96.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/twhite96) [![Twitter Follow](https://img.shields.io/twitter/follow/TiffanyW_412.svg?style=social&label=Follow&maxAge=2592000)](https://twitter.com/TiffanyW_412)
