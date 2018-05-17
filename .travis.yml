@@ -2,6 +2,7 @@ language: node_js
 node_js:
   - "6.3.1"
   # safelist
+  - "10"
 branches:
   only:
   - gh-pages
