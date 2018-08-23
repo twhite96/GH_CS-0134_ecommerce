@@ -20,7 +20,7 @@
     "gulp": "~3.9.1"
   },
   "dependencies": {
-    "lazysizes": "^3.0.0",
+    "lazysizes": "^4.1.1",
     "bootstrap": "^3.3.5",
     "grunt": "^1.0.1",
     "gulp": "^3.9.1",
